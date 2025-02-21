@@ -7,6 +7,8 @@ tags:
   - Richie Bros.
   - Job Description
 ---
+[Go back...](/work/2025/02/21/Richie-Bros.html)
+
 # About Us
 RB Global (NYSE: RBA) (TSX: RBA) is a leading, omnichannel marketplace that provides value-added insights, services and transaction solutions for buyers and sellers of commercial assets and vehicles worldwide. Through its auction sites in 13 countries and digital platform, RB Global serves customers in more than 170 countries across a variety of asset classes, including automotive, commercial transportation, construction, government surplus, lifting and material handling, energy, mining and agriculture.
 
