@@ -19,7 +19,7 @@ tags:
 
 The Senior Infrastructure Specialist will participate in all aspects of solution design, development, integration, testing, application infrastructure support, leadership, and maintenance within the Individual Wealth Technology team at Canada Life. This position demands an excellent knowledge of technical practices and standards, and the ability to work effectively as a member of a larger, multi-disciplinary team.
 
-#What you will do:
+# What you will do:
 
 Sr. Infrastructure Specialists are responsible for the design and development of software solutions.  
 
