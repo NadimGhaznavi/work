@@ -8,7 +8,7 @@ tags:
   - Job Description
   - Docebo
 ---
-[Go back...](/work/2025/02/28/S2025-02-28-TechSupportMgr-desc.html)
+[Go back...](/work/2025/02/28/S2025-02-28-TechSupportMgr.html)
 
 # Job Title: Technical Support Manager (North America)
 
